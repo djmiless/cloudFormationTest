@@ -10,6 +10,7 @@ TaskCat uses Python so you will need to install Python.
 Currently only installation via pip is supported to install taskcat, From your IDE terminal, type the following command to install taskcat
 
 A) pip3 install taskcat
+
 To verify TaskCat is installed, type "taskcat --version" from the command line
 
 From your IDE terminal, type the following command to run TaskCat against your CloudFormation template.
