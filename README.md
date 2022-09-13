@@ -1,4 +1,4 @@
-A solution to test your cloud formation templates with a tool called "Taskcat"
+A solution to test your cloud formation templates with a tool called "Taskcat" Taskcat provides us with a solution to run a cloudformation template and test it without launching the resources.You test and stimulate the cloudformation template with zero cost.
 Taskcat is an open source tool provided by the aws quickstart team.
 
 
